@@ -1,0 +1,15 @@
+D:\CSharp_TrenLop\bin\Debug\net6.0\CSharp_TrenLop.exe
+D:\CSharp_TrenLop\bin\Debug\net6.0\CSharp_TrenLop.deps.json
+D:\CSharp_TrenLop\bin\Debug\net6.0\CSharp_TrenLop.runtimeconfig.json
+D:\CSharp_TrenLop\bin\Debug\net6.0\CSharp_TrenLop.dll
+D:\CSharp_TrenLop\bin\Debug\net6.0\ref\CSharp_TrenLop.dll
+D:\CSharp_TrenLop\bin\Debug\net6.0\CSharp_TrenLop.pdb
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.csproj.AssemblyReference.cache
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.AssemblyInfoInputs.cache
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.AssemblyInfo.cs
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.csproj.CoreCompileInputs.cache
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.dll
+D:\CSharp_TrenLop\obj\Debug\net6.0\ref\CSharp_TrenLop.dll
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.pdb
+D:\CSharp_TrenLop\obj\Debug\net6.0\CSharp_TrenLop.genruntimeconfig.cache
